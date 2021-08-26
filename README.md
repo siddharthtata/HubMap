@@ -7,7 +7,7 @@ Next goal was to create the X and Y coordinates for the Network Graph. For this,
 After obtaining X and Y coordinated and the NodeName (as given in sheet Graph_coords.csv) I created a network graph using Tableau Software. The Source node for the graph is "OBO Ontological Id" and Target Node is the "Markers"  and the links are the indexes assigned to each "OBO Ontological Id".
 
 Please find the link below for the workbook:
-https://prod-useast-b.online.tableau.com/t/tableaudatavisualisation/authoring/Hubmap/Sheet1#2
+https://prod-useast-b.online.tableau.com/t/tableaudatavisualisation/views/Hubmap/Sheet1?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
 
 Output folder contains the output Image, data  and PDF .
 
